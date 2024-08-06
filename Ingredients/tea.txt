@@ -1,1 +1,1 @@
-tea quantity : 30 teaspoon
+tea quantity : 60 teaspoon
